@@ -7,6 +7,7 @@
 /* The following example turns the background to yellow if you uncomment it. */
 
 body {
-  /* background-color: #f1c40f; */
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ef/Mount_Hood_reflected_in_Mirror_Lake,_Oregon.jpg");
+  background-size: cover;
 }
 
