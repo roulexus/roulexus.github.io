@@ -10,9 +10,10 @@ body {
   background-color: #669AC0;
 }
 
-.navbar_brand {
-    font-size: 60px;
+h1 {
+    font-size: 100px;
     font-family: 'Paytone One', sans-serif;
+    text-align: centered;
 }
 
 
