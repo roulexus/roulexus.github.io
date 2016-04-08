@@ -10,7 +10,7 @@ body {
   background-color: #669AC0;
 }
 
-.navbar-header {
+.app_name {
     font-size: 60px;
     font-family: 'Paytone One', sans-serif;
 }
