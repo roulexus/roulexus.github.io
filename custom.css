@@ -10,7 +10,10 @@ body {
   background-color: #669AC0;
 }
 
-navbar-header {
+.navbar-header {
     font-size: 60px;
+    font-family: 'Paytone One', sans-serif;
 }
+
+
 
