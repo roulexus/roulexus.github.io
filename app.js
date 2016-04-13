@@ -9,7 +9,7 @@ var config = {
   app_name: 'Roulexus',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6Lcm2xwTAAAAADh3Q1lSbxJg3c-4LzU2ESJENJyT',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LcTUB0TAAAAAJ30T51LkbUJPl0__nV58Q5AwvD6', // <----- EDIT ME!
   redirect_uri: 'https://roulexus.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
