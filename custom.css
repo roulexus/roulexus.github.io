@@ -10,5 +10,12 @@ body {
   background-color: #669AC0;
 }
 
+h1 {
+    font-size: 100px;
+    font-family: 'Paytone One', sans-serif;
+    text-align: centered;
+    color: #FFFFFF;
+      }
+
 
 
