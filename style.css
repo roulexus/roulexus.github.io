@@ -1,11 +1,7 @@
 body {
     margin-top: 20px;
 }
-h1#top {
-    font-size: 100px;
-    font-family: 'Paytone One', sans-serif;
-    text-align: centered;
-}
+
 
 .navbar .navbar-brand {
     color: #777777;
